@@ -309,12 +309,10 @@ Below, we have used 'Find element' method to locate the fields.
 
 ## ## Screenshots
 // Other option selected with custom amount entered 
-<img width="1181" alt="Testcase2 1" src="https://github.com/kohiln/PhorestTaskREADME1/assets/137426778/42490fe1-69fd-457e-9a96-b377a2a562f6">
-
+<img src = "Testcase2.1.png"> 
 
 //Successful purchase of gift card for someone else 
-<img width="1195" alt="TestCase2 2" src="https://github.com/kohiln/PhorestTaskREADME1/assets/137426778/0e68ed10-d937-4c91-9f56-e6191fb3985e">
-
+<img src = "TestCase2.2.png">
 
 ## Negative Test Case 1
 
@@ -365,8 +363,7 @@ Lets begin by creating another class for this test case
 
 //Error Message Displayed on the screen 
 
-<img width="1190" alt="Testcase3 1" src="https://github.com/kohiln/PhorestTaskREADME1/assets/137426778/f2bea955-57bb-4691-9f39-8b0ae288a201">
-
+<img src = "Testcase3.1.png" >
 
 ## Negative Test Case 2
 
@@ -492,8 +489,7 @@ Lets begin by creating another class for this test case
 ## ## Screenshots
 
 //Error Message Displayed on the screen 
-<img width="1196" alt="testcase4 1" src="https://github.com/kohiln/PhorestTaskREADME1/assets/137426778/12d4a2fd-2d23-4b49-8376-07133f20a3fb">
-
+<img src = "testcase4.1.png"> 
 
 ## ## Github Integration 
 
@@ -531,9 +527,7 @@ After a few seconds, your code will be pushed to the git repository
 7. Severity: Low
 8. Priotity: Medium 
 9. Screenshot of the bug: 
-<img width="1083" alt="Bug1" src="https://github.com/kohiln/PhorestTaskREADME1/assets/137426778/fcf9c2a7-6838-4c9b-9b11-6cf5796fd3e2">
-
-
+<img src = "Bug1.png" >
 
 
 
