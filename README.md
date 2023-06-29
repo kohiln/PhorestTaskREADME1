@@ -175,8 +175,8 @@ Below, we have used 'Find element' method to locate the fields.
     obj.TestCase3();
     obj.TestCase4();
     }
-    
-Screenshots <img width="1186" alt="PositiveTestCase1" src="https://github.com/kohiln/PhorestTaskREADME1/assets/137426778/ecf0ac57-0043-4e75-ad14-c736a461b423">
+
+<img src="PositiveTestCase1.png">
 
 
 ## Positive Test Case 2
